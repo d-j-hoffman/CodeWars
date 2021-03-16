@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CodeWars.WIP
+namespace CodeWars.Solved
 {
     public class MergedStingChecker
     {
