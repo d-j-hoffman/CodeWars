@@ -68,4 +68,5 @@ namespace CodeWars
             }
             return returnArray.ToArray();
         }
+    }
 }
